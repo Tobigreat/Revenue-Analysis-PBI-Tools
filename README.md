@@ -1,7 +1,7 @@
 # Revenue-Analysis-PBI-Tools
 The revenue analysis of a B2C company provides critical insights into its financial performance, identifying key trends and patterns that influence growth and profitability. By examining sales data across various dimensions such as product categories, customer segments, and geographic regions, the analysis highlights areas of strong performance and potential bottlenecks. Key metrics such as revenue growth rate, manufacturing cost, and customer retention rates offer a comprehensive view of the company’s market position and operational efficiency. This data-driven approach identifies top-performing products, high-value customers, and underperforming segments, offering actionable insights to optimize pricing strategies, marketing efforts, and inventory management. Ultimately, the analysis serves as a foundation for strategic decision-making to enhance overall revenue and sustain competitive advantage.
 
-##Problem Statement
+## Problem Statement
 Despite steady growth in sales, the B2C company faces challenges in optimizing its revenue streams due to uneven performance across product categories, customer segments, and geographic regions. Inconsistent revenue trends suggest potential inefficiencies in pricing strategies, marketing efforts, and resource allocation. Additionally, limited insights into customer retention patterns and transaction behaviors hinder the ability to identify and capitalize on high-value opportunities. These issues highlight the need for a deeper understanding of revenue drivers and bottlenecks to develop targeted strategies for sustained growth and profitability.
 
 ## Objectives
